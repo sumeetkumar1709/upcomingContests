@@ -9,7 +9,7 @@ def home():
 
 @app.route('/codechef')
 def codechef():
-    pass
+    print("Codechef")
 
 
 if __name__ == '__main__':
